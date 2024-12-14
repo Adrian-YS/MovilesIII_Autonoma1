@@ -1,0 +1,53 @@
+[
+    {
+      "nombre": "Ahri",
+      "descripcion": "Una vastaya encantadora con el poder de manipular las emociones y robar la esencia de sus enemigos.",
+      "imagen": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Ahri_0.jpg"
+    },
+    {
+      "nombre": "Yasuo",
+      "descripcion": "Un espadachín ágil y letal que utiliza el viento como su aliado en combate.",
+      "imagen": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Yasuo_0.jpg"
+    },
+    {
+      "nombre": "Jinx",
+      "descripcion": "Una criminal excéntrica de Zaun que disfruta sembrar el caos con sus armas explosivas.",
+      "imagen": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Jinx_0.jpg"
+    },
+    {
+      "nombre": "Teemo",
+      "descripcion": "Un explorador yódl que utiliza trampas y venenos para defender a sus aliados.",
+      "imagen": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Teemo_0.jpg"
+    },
+    {
+      "nombre": "Thresh",
+      "descripcion": "Un espíritu malévolo que encadena y tortura las almas de los desafortunados que captura.",
+      "imagen": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Thresh_0.jpg"
+    },
+    {
+      "nombre": "Lux",
+      "descripcion": "Una maga optimista que domina la luz para proteger a sus aliados y derrotar a sus enemigos.",
+      "imagen": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Lux_0.jpg"
+    },
+    {
+      "nombre": "Zed",
+      "descripcion": "Un maestro de las sombras que busca imponer su filosofía mediante la fuerza.",
+      "imagen": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Zed_0.jpg"
+    },
+    {
+      "nombre": "Miss Fortune",
+      "descripcion": "Una cazarrecompensas letal conocida por su precisión y carisma.",
+      "imagen": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/MissFortune_0.jpg"
+    },
+    {
+      "nombre": "Draven",
+      "descripcion": "El glorioso verdugo de Noxus, conocido por su estilo espectacular en la arena.",
+      "imagen": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Draven_0.jpg"
+    },
+    {
+      "nombre": "Ekko",
+      "descripcion": "Un genio de Zaun que manipula el tiempo para superar cualquier obstáculo.",
+      "imagen": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Ekko_0.jpg"
+    }
+  ]
+  
